@@ -89,7 +89,7 @@ logo =                                          """
 \x1b[1;97m------------------------\x1b[1;97m------------------------
 \033[1;31m\033[1;37m Author \x1b[1;97m : \033[1;37m           \033[0;96mKAPTAN
 \033[1;31m\033[1;37m Facebook\x1b[1;97m:  \033[1;37m          \033[0;96mABU BAKAR
-\033[1;31m\033[1;37m Connect\x1b[1;97m  : \033[1;37m          \033[0;96m923254985137
+\033[1;31m\033[1;37m Connect\x1b[1;97m  : \033[1;37m          \033[0;96m03435908309
 \033[1;31m\033[1;37m Status\x1b[1;97m : \033[1;37m               \033[0;93mFREE
 \033[1;37m------------------------\033[1;37m------------------------ """                                              
 
@@ -97,8 +97,8 @@ def hasil(OK,cp):
 	if not len(OK) != 0:
 	    pass
 	if len(cp) != 0:
-	    print('\n\n  \x1b[1;97m Total OK : \x1b[1;97m %s  \x1b[1;97mM.M_OK.txt' % (H, P, str(len(ok))))
-	    print('  \x1b[1;97m Total CP :\x1b[1;97m   %s \x1b[1;97mM.M_CP.txt' % (H, P, str(len(cp))))
+	    print('\n\n  \x1b[1;97m Total OK : \x1b[1;97m %s  \x1b[1;97mm.mKAPTAN_OK.txt' % (H, P, str(len(ok))))
+	    print('  \x1b[1;97m Total CP :\x1b[1;97m   %s \x1b[1;97mm.mKAPTAN_CP.txt' % (H, P, str(len(cp))))
 	    input("\x1b[1;97mPress enter to back M.M Menu ")
 	    sarfraz()
 
